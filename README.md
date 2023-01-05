@@ -2,7 +2,7 @@
 
 #### 📚 Faço análise e desenvolvimento de sistemas
 
-#### 🔭 Atualmente trabalho no RTB de uma corretora de valores
+#### 🔭 Atualmente trabalho alocada em uma CTVM no time de RTB/Sustentação.
 
 #### 🌱 Atualmente estou aprendendo **C#, Angular, JS**
 
