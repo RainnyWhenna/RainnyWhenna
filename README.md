@@ -1,8 +1,8 @@
-## Oie, meu nome é Rainny Whenna sou programadora júnior e entusiasta de tecnologia 👩🏻‍💻.
+## Oie, meu nome é Rainny Whenna sou programadora e entusiasta de tecnologia 👩🏻‍💻.
 
 #### 📚 Faço análise e desenvolvimento de sistemas
 
-#### 🔭 Atualmente trabalho alocada em uma CTVM no time de RTB/Sustentação.
+#### 🔭 Atualmente trabalho em uma outsourcing.
 
 #### 🌱 Atualmente estou aprendendo **C#, Angular, JS**
 
