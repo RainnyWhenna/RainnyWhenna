@@ -2,9 +2,7 @@
 
 #### 📚 Faço análise e desenvolvimento de sistemas
 
-#### 🔭 Atualmente trabalho em uma outsourcing.
-
-#### 🌱 Atualmente estou aprendendo **C#, Angular, JS**
+#### 🌱 Atualmente estou aprendendo **Angular e JS**
 
 ### Conhecimentos básicos em:
 <p align="left">
