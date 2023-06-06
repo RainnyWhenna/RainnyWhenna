@@ -1,5 +1,4 @@
-## Oie, meu nome é Rainny Whenna.
-Sou programadora e entusiasta de tecnologia 👩🏻‍💻.
+## Oie, meu nome é Rainny Whenna, sou programadora e entusiasta de tecnologia 👩🏻‍💻.
 
 #### 📚 Faço análise e desenvolvimento de sistemas
 
